@@ -1,9 +1,11 @@
+---
+tags: Dnd
+Race:
+Profession:
+Class:
+Guild:
+---
 
-```statblock
-name: Amrond
-type: old wood elf
-
-```
 
 Amour de l'alcool 
-CHef du village
+Chef du village [[Allanar]]

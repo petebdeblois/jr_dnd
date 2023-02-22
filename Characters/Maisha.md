@@ -1,3 +1,10 @@
+---
+tags: Dnd
+Race:
+Profession:
+Class:
+Guild:
+---
 Grande pretresse
-wood elf
+[[Elf#Wood Elf]]
 Specialiste Divination

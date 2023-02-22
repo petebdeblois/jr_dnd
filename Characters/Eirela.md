@@ -1,4 +1,13 @@
+---
+tags: Dnd
+Race: Wood Elf
+Profession:
+Class:
+Guild:
+---
+
 Point de contact de la guilde
-Elle qui communiqué avec d'autre guildes aventurier
-Wood Elf
+Elle qui communique avec d'autre guildes aventurier
+[[Elf#Wood Elf]]
+
 

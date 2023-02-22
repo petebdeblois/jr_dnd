@@ -1,7 +1,14 @@
+---
+tags: Dnd
+Race:
+Profession:
+Class:
+Guild:
+---
 SongWeaver
 
 Il parle beaucoup
-Raconte meme des choses quil ne devrait pas savoir
+Raconte meme des choses qu'il ne devrait pas savoir
 Fan club des aventuriers d'argent
 Beaucoup d'information
 

@@ -1,7 +1,11 @@
 ---
-Region : [[Enya]]
+tags: Dnd
+Region: Enya
+KnownFor: Alccol Crafting
+Population: [Evles, Halfing]
+Market: Alcool
+Temple:
 ---
-
 
 Plaisir de l'acool
 
