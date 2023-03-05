@@ -1,6 +1,6 @@
 ---
 tags: Dnd
-Region: Enya
+Region: Enia
 KnownFor: Alccol Crafting
 Population: [Evles, Halfing]
 Market: Alcool

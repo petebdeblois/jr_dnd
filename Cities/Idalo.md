@@ -1,6 +1,6 @@
 ---
 tags: Dnd
-Region: Enya
+Region: Enia
 KnownFor: 
 Population: 
 Market: Alcool

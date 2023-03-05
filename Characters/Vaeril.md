@@ -8,4 +8,6 @@ Guild:
 
 Grand cleric
 Wood elf
-Guerison
+Specialite Guerison
+
+Elven God of nature

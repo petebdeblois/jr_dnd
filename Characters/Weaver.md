@@ -1,9 +1,10 @@
 ---
 tags: Dnd
-Race:
-Profession:
-Class:
+Race: Human
+Profession: 
+Class: Barde
 Guild:
+Rank: Bronze
 ---
 SongWeaver
 

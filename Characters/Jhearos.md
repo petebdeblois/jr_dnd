@@ -2,7 +2,7 @@
 tags: Dnd
 Race: High Elf
 Profession:
-Class:
+Class: 
 Guild: Guild de Mage
 ---
 point de contact avec la [[Guild de Mage]]

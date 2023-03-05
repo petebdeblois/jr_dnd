@@ -1,7 +1,7 @@
 ---
 created: 2023-02-12T18:54:26 (UTC -05:00)
 source: https://www.donjondudragon.fr/drs/ad-d2/dieux/10945-talona.html
-author: szass
+Dieu: Maladie, Poison
 ---
 Puissance mineure (Chaotique Mauvais)
 

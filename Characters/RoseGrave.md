@@ -1,10 +1,13 @@
 ---
 tags: Dnd
-Race:
-Profession:
-Class:
-Guild:
+Race: Wood ELf
+Profession: 
+Class: Fighter
+Guild: Guilde des aventuriers
+Rank: Argent
 ---
 Fighter
 Wood Elf
-AIde les environs
+Aide les environs
+
+Argent

@@ -1,7 +1,7 @@
 ---
 tags: Dnd
 Race:
-Profession:
+Profession: Chef du Village Allanar
 Class:
 Guild:
 ---

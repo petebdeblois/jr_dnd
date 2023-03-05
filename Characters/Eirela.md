@@ -4,6 +4,7 @@ Race: Wood Elf
 Profession:
 Class:
 Guild:
+Region: Enia
 ---
 
 Point de contact de la guilde

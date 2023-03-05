@@ -5,7 +5,7 @@ Profession:
 Class:
 Guild:
 ---
-[[Kingdom of Betlian]]
+[[Betlian]]
 
 [[Human]]
 Roi de Betlian, guerrier vraiment inspirant. 6 mois sur le murs par annees. 
